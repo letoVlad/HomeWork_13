@@ -12,6 +12,4 @@ public class Bus extends Transport {
                 ", год выпуска " + getYearOfManufacture() + " год" +
                 ", максимальная скорость" + getYearOfManufacture());
     }
-
-
 }

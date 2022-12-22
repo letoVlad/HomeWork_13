@@ -9,6 +9,5 @@ public class Main {
         honda.info();
         maz.info();
         volvo.info();
-
     }
 }
